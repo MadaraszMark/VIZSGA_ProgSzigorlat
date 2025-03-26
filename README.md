@@ -1,0 +1,2 @@
+# VIZSGA_ProgSzigorlat
+VIZSGA_Peldafeladat_ProgSzigorlat
